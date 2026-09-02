@@ -890,8 +890,10 @@ img {
 .toppageimage img {
   max-width: 100%;
   height: auto;
+/*  
   opacity: 0.0;
   animation: fadeInOpacity 12s ease forwards;
+*/
   display: block;
   border-radius: 8px;
 }
